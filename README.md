@@ -38,6 +38,8 @@ In scientific domains, Deep Vision Neurons could significantly accelerate progre
 
 <br>
 
+#
+
 [Neurons](https://github.com/sourceduty/Neurons)
 <br>
 [Neural Optimation](https://chatgpt.com/g/g-6817eae33a988191ada3321300a603ca-neural-optimation)
