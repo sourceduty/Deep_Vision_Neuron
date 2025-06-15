@@ -26,6 +26,17 @@ Deep Vision Neuron science represents a groundbreaking advancement in artificial
 
 In scientific domains, Deep Vision Neurons could significantly accelerate progress in fields that rely on detailed image analysis, such as biomedical imaging, astrophysics, and environmental monitoring. For instance, in medical diagnostics, they can be trained to identify early indicators of disease in radiographs, MRIs, or histopathology slides—often detecting patterns that are difficult for even trained specialists to spot. This could lead to earlier and more accurate diagnoses, improving patient outcomes and reducing healthcare costs. In space research, Deep Vision Neurons could analyze vast astronomical datasets to identify phenomena like exoplanets, gravitational lenses, or faint galactic structures by recognizing subtle features across layers of spatial and spectral data. Their ability to integrate low- and high-level cues also makes them ideal for monitoring complex ecosystems in satellite imagery, enabling scientists to track biodiversity, deforestation, or pollution trends with higher precision. In essence, the Deep Vision Neuron bridges the gap between raw visual data and actionable scientific insight, making it a transformative tool in both research and real-world applications.
 
+<br>
+
+| Network Scale   | # of Submodules                     | Hierarchy Depth | Example Use Case                          | Hardware Requirements           | Training Time Estimate | Fusion Layer Type             |
+|-----------------|-------------------------------------|------------------|--------------------------------------------|----------------------------------|-------------------------|-------------------------------|
+| DVN-Micro       | 3 (Edge, Texture, Color)            | 1 Level          | Basic object recognition in robotics       | CPU or low-power mobile GPU      | ~2–4 hours              | Simple weighted average       |
+| DVN-Mini        | 5 (+ Shape & Gradient)              | 2 Levels         | Logo/icon detection for mobile apps        | Mobile GPU / Jetson Nano         | ~8–12 hours             | Softmax-based fusion          |
+| DVN-Standard    | 10 (+ Motion, Illumination)         | 3 Levels         | Video surveillance or vehicle detection    | Mid-range GPU (e.g., RTX 3060)   | 1–2 days                | Attention-weighted fusion     |
+| DVN-Advanced    | 20 (+ Object, Saliency, Context)    | 4 Levels         | Medical image diagnostics (CT, MRI)        | High-end GPU (A100, RTX 4090)    | 3–5 days                | Transformer-based fusion      |
+| DVN-Ultra       | 40+ (Domain-specific modules)       | 5+ Levels        | Autonomous navigation, pathology grading   | Multi-GPU / TPU / Cluster        | 1–2 weeks               | Multi-modal cross-fusion      |
+
+<br>
 #
 
 [Neurons](https://github.com/sourceduty/Neurons)
