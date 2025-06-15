@@ -36,8 +36,6 @@ In scientific domains, Deep Vision Neurons could significantly accelerate progre
 | DVN-Advanced    | 20 (+ Object, Saliency, Context)    | 4 Levels         | Medical image diagnostics (CT, MRI)        | High-end GPU (A100, RTX 4090)    | 3–5 days                | Transformer-based fusion      |
 | DVN-Ultra       | 40+ (Domain-specific modules)       | 5+ Levels        | Autonomous navigation, pathology grading   | Multi-GPU / TPU / Cluster        | 1–2 weeks               | Multi-modal cross-fusion      |
 
-<br>
-
 #
 
 [Neurons](https://github.com/sourceduty/Neurons)
