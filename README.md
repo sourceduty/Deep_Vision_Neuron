@@ -37,7 +37,6 @@ In scientific domains, Deep Vision Neurons could significantly accelerate progre
 | DVN-Ultra       | 40+ (Domain-specific modules)       | 5+ Levels        | Autonomous navigation, pathology grading   | Multi-GPU / TPU / Cluster        | 1–2 weeks               | Multi-modal cross-fusion      |
 
 <br>
-#
 
 [Neurons](https://github.com/sourceduty/Neurons)
 <br>
