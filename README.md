@@ -6,7 +6,7 @@ At the core of the Deep Vision Neuron is a novel activation function known as th
 
 [Deep Vision Neuron](https://chatgpt.com/g/g-684ea4d638e88191a531d2bc52f4a37d-deep-vision-neuron) is a custom GPT made to simulate and describe the operations, architecture, and applications of the Deep Vision Neuron system in natural language. It is optimized to guide users through the technical aspects of the architecture using a structured, multi-choice questioning approach. The model can help users conceptualize how hierarchical neural modules can be applied in real-world tasks such as medical image analysis, autonomous driving, and robotic perception. In particular, the GPT can break down complex scenarios, like how different levels of the Deep Vision Neuron architecture work together to detect and diagnose abnormalities in radiological images. By doing so, it serves not only as an explainer of the technology but also as a design assistant and educational tool for those building or learning about advanced visual processing systems.
 
-#
+<br>
 
 | Feature              | Traditional Neuron                                                | Deep Vision Neuron (DVN)                                                                 |
 |----------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ At the core of the Deep Vision Neuron is a novel activation function known as th
 | Scalability          | Limited by depth and connectivity                                | Modular and scalable due to independent nested submodules                               |
 | Training Complexity  | Simpler backpropagation                                           | Hierarchical backpropagation required across modules                                    |
 
-#
+<br>
 
 Deep Vision Neuron science represents a groundbreaking advancement in artificial neural network architectures, particularly tailored for complex visual recognition tasks. What sets it apart is its hierarchical design, in which multiple independent yet collaborative submodules—each focused on a specialized aspect of image analysis—are structured to process data in progressive levels of abstraction. This emulates how the human visual system operates, beginning with basic features like edges and textures and advancing toward full object recognition and contextual understanding. The incorporation of the novel Deep Vision Activation (DVA) function adds another layer of innovation by enabling more nuanced nonlinear transformations and improved gradient flow across deep layers. The DVA function's squared sigmoid structure ensures smoother learning curves and better convergence, making it highly suitable for deep architectures where traditional activations often fall short. Together, these features position the Deep Vision Neuron as a uniquely powerful tool for tackling classification challenges that involve nested, multi-scale visual data.
 
